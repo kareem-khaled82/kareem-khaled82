@@ -1,20 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kareem Khaled</h1>
 <h3 align="center">Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtaha89&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtaha89" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedtaha89" alt="ahmedtaha89" /></a> </p>
 
 - 🔭 I’m Currently Studying on **faculty of Computer & Information Sciences - Kafr El-Sheikh University‎**
 - 🌱 I’m Currently learning **Python | SQL | Excel | Power BI **
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmed-taha-87b546207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-taha-87b546207" height="30" width="40" /></a>
-<a href="https://kaggle.com/ahmedtahaahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedtahaahmed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ahmed8952at" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed8952at" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abo_taha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abo_taha" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 

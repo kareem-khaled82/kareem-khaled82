@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kareem Khaled</h1>
 <h3 align="center">Data Analyst</h3>
+🔭 I’m Currently Studying on **faculty of Computer & Information Sciences - Kafr El-Sheikh University‎**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kareem-khaled82&label=Profile%20views&color=0e75b6&style=flat" alt="kareem-khaled82" /> </p>
 
